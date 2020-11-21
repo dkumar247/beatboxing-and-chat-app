@@ -1,1 +1,1 @@
-# simple-chat
+# beatboxing-and-chat-app
